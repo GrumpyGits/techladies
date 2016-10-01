@@ -4,4 +4,4 @@ Hi from Maria, travel photographer from Kazakhstan.
 
 Hello I am Gemma!
 
-Please write a one line introduction of yourself above this line
+My name is Li Ling and I am very confused with what is happening here. 

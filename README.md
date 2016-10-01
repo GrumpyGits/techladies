@@ -1,3 +1,4 @@
+
 # TechLadies 2016 2nd Batch
 
 Hi from Maria, travel photographer from Kazakhstan.
@@ -8,5 +9,6 @@ Hi, I'm Chelsia, a student working in the TOUCH Young Arrows team!
 
 Novi Wijaya, scorpio.
 
----
+Hi! I'm Ling and I am from Team PPIS!
+
 Please write a one line introduction of yourself above this line

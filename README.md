@@ -1,3 +1,3 @@
 TechLadies 2016 2nd Batch
 
-Please write a one line introduction of yourself above this line
+My name is Li Ling and I am very confused with what is happening here. 

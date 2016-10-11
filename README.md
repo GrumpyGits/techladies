@@ -10,3 +10,5 @@ Novi Wijaya, scorpio.
 
 ---
 Please write a one line introduction of yourself above this line
+
+Hello I'm Salie.
